@@ -1,0 +1,38 @@
+#qwe {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(2, 2, 2);
+}
+
+#asd {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(2, 2, 2, 0.696);
+}
+
+#zxc {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(2, 2, 2, 0.418);
+}
+
+#rty {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(2, 2, 2, 0.125);
+}
+
+#container {
+    width: 300px;
+    height: 480px;
+    background-color: #f5f5dd;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+}
+
+
+
+
